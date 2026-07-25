@@ -370,5 +370,3 @@ Built using FastAPI, ChromaDB, Sentence Transformers, Groq LLM, and Retrieval Au
 ## License
 
 This project is developed for educational and research purposes.
-../venv\Scripts\activate
-python -m uvicorn main:app --reload
