@@ -36,7 +36,9 @@ The assistant retrieves the most relevant document chunks from a vector database
 - Vector similarity search
 - Context injection before generation
 - Source citation support
+- 
   ![Session Memory Part 1](screenshots/session-memory 1.png)
+
 
   ![Session Memory Part 2](screenshots/session-memory 2.png)
 
@@ -46,7 +48,9 @@ The assistant retrieves the most relevant document chunks from a vector database
 - Automatic document parsing
 - Document indexing
 - Download and preview PDFs
+  
   ![Upload](screenshots/upload.png)
+
 
   ![Documents](screenshots/documents.png)
 
@@ -55,6 +59,7 @@ The assistant retrieves the most relevant document chunks from a vector database
 - Latest ISRO space news
 - Dynamic news cards
 - External article links
+  
   ![News Page](screenshots/news.png)
 
 ### Dashboard
@@ -63,6 +68,7 @@ The assistant retrieves the most relevant document chunks from a vector database
 - Mission coverage
 - Knowledge base status
 - AI engine information
+  
   ![Dashboard](screenshots/dashboard.png)
 
 ---
