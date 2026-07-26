@@ -37,10 +37,10 @@ The assistant retrieves the most relevant document chunks from a vector database
 - Context injection before generation
 - Source citation support
 - 
-  ![Session Memory Part 1](screenshots/session-memory 1.png)
+  ![Session Memory Part 1](screenshots/session-memory1.png)
 
 
-  ![Session Memory Part 2](screenshots/session-memory 2.png)
+  ![Session Memory Part 2](screenshots/session-memory2.png)
 
 ### Document Management
 
